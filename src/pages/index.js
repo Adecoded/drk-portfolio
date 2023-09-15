@@ -55,7 +55,7 @@ export default function Home() {
                     hover:bg-light hover:text-dark border-2 border-transparent hover:border-dark
                      hover:dark:border-light hover:dark:text-light md:p-2 md:px-4 md:text-base "
                 >
-                  Resume <LinkArrow className={"w-6 m-1 h-full"} />
+                  Resume <LinkArrow className={"w-6 m-1 h-6"} />
                 </Link>
 
                 <Link
