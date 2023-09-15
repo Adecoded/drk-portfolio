@@ -196,9 +196,9 @@ className="min-w-[70vw] flex flex-col
           `}
         >
           {mode === "dark" ? (
-            <SunIcon className={"fill-dark w-full h-full"} />
+            <SunIcon className={"fill-dark w-12 h-12"} />
           ) : (
-            <MoonIcon className={"fill-dark w-full h-full"} />
+            <MoonIcon className={"fill-dark w-12 h-12"} />
           )}
         </button>
       </nav>
