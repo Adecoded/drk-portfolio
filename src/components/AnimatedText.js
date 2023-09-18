@@ -38,7 +38,7 @@ const AnimatedText = ({ text, className = "" }) => {
         variants={Quote}
         initial="initial"
         animate="animate"
-        whileInView={{color:["#58E6D9","#B63E96","#58E6D9",],
+        whileInView={{color:["#D22B2B","#B63E96","#20BCAB",],
         transition:{duration:1, repeat:Infinity}
       
       }}
