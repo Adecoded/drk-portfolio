@@ -178,7 +178,7 @@ const projects = () => {
 
             <div className="col-span-12 ">
               <FeaturedProjects
-                title="CoinTracker Application clone"
+                title="CoinTracker Application"
                 summary="A feature-rich Crypto Screener App using React, Tailwind CSS, Context API, React Router and Recharts. 
             It shows detail regarding almost all the cryptocurrency. You can easily convert the price in your 
             local currency."
