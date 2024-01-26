@@ -191,7 +191,7 @@ const projects = () => {
 
             <div className="col-span-6 sm:col-span-12">
               <Project
-                title="Pronef NFT Application clone"
+                title="Pronef NFT Application"
                 link="https://github.com/Adecoded/pROnEFNftApp"
                 type="Project"
                 img={Project5}
