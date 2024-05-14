@@ -228,7 +228,6 @@ const projects = () => {
                 github="https://github.com/Adecoded/pROnEFNftApp"
               />
             </div>
-
             <div className="col-span-6 sm:col-span-12">
               <Project
                 title="Pinterest Application clone"
