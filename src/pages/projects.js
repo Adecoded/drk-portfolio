@@ -209,6 +209,36 @@ const projects = () => {
               />
             </div>
           </div>
+              <div className="col-span-12 ">
+              <FeaturedProjects
+                title="My Portfolio Application"
+                summary="A porfolio website showing little details about me and what i have done with my previous learning experience."
+                type="Featured Project"
+                img={Project6}
+                link="https://drk-portfolio.netlify.app/"
+              />
+            </div>
+
+            <div className="col-span-6 sm:col-span-12">
+              <Project
+                title="Pronef NFT Application"
+                link="https://github.com/Adecoded/pROnEFNftApp"
+                type="Project"
+                img={Project5}
+                github="https://github.com/Adecoded/pROnEFNftApp"
+              />
+            </div>
+
+            <div className="col-span-6 sm:col-span-12">
+              <Project
+                title="Pinterest Application clone"
+                link="https://github.com/Adecoded/pinterest"
+                type="Project"
+                img={Project3}
+                github="https://github.com/Adecoded/pinterest"
+              />
+            </div>
+          </div>
         </Layout>
       </main>
     </>
