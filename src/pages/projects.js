@@ -208,8 +208,7 @@ const projects = () => {
                 github="https://github.com/Adecoded/pinterest"
               />
             </div>
-          </div>
-              <div className="col-span-12 ">
+                   <div className="col-span-12 ">
               <FeaturedProjects
                 title="My Portfolio Application"
                 summary="A porfolio website showing little details about me and what i have done with my previous learning experience."
@@ -237,7 +236,6 @@ const projects = () => {
                 github="https://github.com/Adecoded/pinterest"
               />
             </div>
-          </div>
         </Layout>
       </main>
     </>
